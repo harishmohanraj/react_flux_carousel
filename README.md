@@ -1,0 +1,1 @@
+#Simple React Carousel with FLUX architecture
