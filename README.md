@@ -1,1 +1,1 @@
-#Simple React Carousel with FLUX architecture
+# Hello World using FLUX
